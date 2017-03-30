@@ -2,7 +2,7 @@
 
 [![Buy Me a Coffee](http://static.tonybogdanov.com/github/coffee.svg)](http://ko-fi.co/1236KUKJNC96B)
 
-[Demo & Documentation](http://tonybogdanov.github.io/poly-behavior-easing/bower_components/poly-behavior-easing/index.html)
+[Demo & Documentation](http://tonybogdanov.github.io/poly-behavior-easing/bower_components/poly-behavior-easing)
 
 `Poly.EasingBehavior` provides a [Polymer](https://polymer-project.org) [behavior](https://www.polymer-project.org/1.0/docs/devguide/behaviors) for calculation interpolation using [bezier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
