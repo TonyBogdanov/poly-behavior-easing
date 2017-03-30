@@ -6,6 +6,8 @@
 
 `Poly.EasingBehavior` provides a [Polymer](https://polymer-project.org) [behavior](https://www.polymer-project.org/1.0/docs/devguide/behaviors) for calculation interpolation using [bezier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
+Call `createEasing()` to generate your interpolator (a function) and then pass a value in the range [0; 1] to interpolate it and retrieve its corresponding projection value in the range [`minValue`; `maxValue`].
+
 ## Dependencies
 
 Element dependencies are managed via [Bower](http://bower.io/). You can
